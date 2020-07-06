@@ -2,7 +2,7 @@
 
 A text-based adventure game in which you explore a closed down university looking for a computer so that you can finish your last school assignment before the deadline comes. All universities including your own have shut down because of a viral pandemic that plagues the land, so the build should - in theory - be empty.
 
-Explore the now-abondoned halls of the university, befriend robots, rescue lab animals, and uncover the mysteries of the top-secret research that took place in the labs in this 2-3 hour adventure. But beware, as the university might not be as abandoned as advertised.
+Explore the now-abondoned halls of the university. Befriend robots, rescue lab animals, and uncover the mysteries of the top-secret research that took place in the labs in this 2-3 hour adventure. But beware, as the university might not be as abandoned as advertised.
 
 Brought to you by s3301419 and s3750663.
 
