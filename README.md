@@ -7,8 +7,8 @@ Explore the now-abondoned halls of the university. Befriend robots, rescue lab a
 Brought to you by s3301419 and s3750663.
 
 <p align="center">
-  <img width="450" height="140" src="/screenshots/ign.png">
-  <img width="450" height="140" src="/screenshots/gamestop.png">
+  <img width="415" height="125" src="/screenshots/ign.png">
+  <img width="415" height="125" src="/screenshots/gamestop.png">
 </p>
 
 ## Requirements
