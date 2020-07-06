@@ -125,7 +125,6 @@ public class Enemy extends NPC implements Attackable {
         if (!this.isAlive()) {
             Room currentRoom = player.getCurrentRoom();
             currentRoom.removeNPC(this);
-            die();
         }
     }
 
