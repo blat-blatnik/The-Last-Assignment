@@ -40,6 +40,8 @@ The map of the first floor university building. An ASCII version of this map is 
   <img src="/guides/map.png"/>
 </p>
 
+The map was made in [diagrams.net](https://app.diagrams.net/).
+
 ## Note
 
 This game is based off of our submission for the RPG assignment for the Object Oriented Programming course at the University of Groningen. We fixed some bugs and added some more story elements and this upload is now a submission of the OOP Contest. Some bugs are probably still present in the game since we did not have a lot of time to playtest it, and a lot of planned content was cut due to time constraints.
