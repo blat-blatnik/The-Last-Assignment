@@ -16,11 +16,13 @@ Brought to you by s3301419 and s3750663.
 |**requirement**                            | **minimum** | **recommended** |
 |:-----------------------------------------:|:-----------:|:---------------:|
 | [Java](https://www.java.com/en/download/) | version 1.8 | version 1.8     |
-| RAM                                       | 16 MB       | 64 MB           |
-| CPU                                       | 10 MHz      | 100 MHz         |
-| Disk space                                | 128 kB      | 256 kB          |
+| RAM\*                                     | 16 MB       | 64 MB           |
+| CPU\*                                     | 10 MHz      | 100 MHz         |
+| Disk space\*                              | 128 kB      | 256 kB          |
 | Keyboard                                  | ASCII       | ASCII           |
 | Monitor                                   | monochrome  | monocrome       |
+
+\*Specs do not include minimum specs required to install and run Java.
 
 ## How to run
 
