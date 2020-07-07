@@ -32,6 +32,14 @@ Brought to you by s3301419 and s3750663.
 $ java -jar last-assignment.jar
 ```
 
+## World Map
+
+The map of the first floor university building. An ASCII version of this map is provided in game. If you want to see the full map, including the locations of every item and enemy have a look at the [cheat map](https://github.com/blat-blatnik/The-Last-Assignment/tree/master/guides).. cheater..
+
+<p align="center">
+  <img src="/guides/map.png"/>
+</p>
+
 ## Note
 
 This game is based off of our submission for the RPG assignment for the Object Oriented Programming course at the University of Groningen. We fixed some bugs and added some more story elements and this upload is now a submission of the OOP Contest. Some bugs are probably still present in the game since we did not have a lot of time to playtest it, and a lot of planned content was cut due to time constraints.
