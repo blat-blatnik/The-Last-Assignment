@@ -26,7 +26,7 @@ Brought to you by s3301419 and s3750663.
 
 ## How to run
 
-[Download](https://github.com/blat-blatnik/The-Last-Assignment/releases/tag/v1.0) the `jar` file and run it with
+[Download](https://github.com/blat-blatnik/The-Last-Assignment/releases/tag/v1.0) the `jar` file and run it with:
 
 ```bash
 $ java -jar last-assignment.jar
