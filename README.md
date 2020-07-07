@@ -34,7 +34,7 @@ $ java -jar last-assignment.jar
 
 ## World Map
 
-The map of the first floor university building. An ASCII version of this map is provided in game. If you want to see the full map, including the locations of every item and enemy have a look at the [cheat map](https://github.com/blat-blatnik/The-Last-Assignment/tree/master/guides).. cheater..
+The map of the first floor university building. An ASCII version of this map is provided in game. If you want to see the full map, including the locations of every item, enemy, and secret have a look at the [cheat map](https://github.com/blat-blatnik/The-Last-Assignment/tree/master/guides).. cheater..
 
 <p align="center">
   <img src="/guides/map.png"/>
