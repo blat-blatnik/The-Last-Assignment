@@ -32,6 +32,8 @@ Brought to you by s3301419 and s3750663.
 $ java -jar last-assignment.jar
 ```
 
+Make sure to run it with `java` and **not** with `javaw` otherwise the console window will not pop up.
+
 ## World Map
 
 The map of the first floor university building. An ASCII version of this map is provided in game. If you want to see the full map, including the locations of every item, enemy, and secret have a look at the [cheat map](https://github.com/blat-blatnik/The-Last-Assignment/tree/master/guides).. cheater..
